@@ -2,7 +2,7 @@
 
 Extension that lets you delete any element on a webpage with one click.
 
-![Chromium Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-brightgreen)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 
@@ -47,7 +47,7 @@ Happy cleaning! 🧹✨
 
 Расширение, которое позволяет удалять любой элемент на странице одним кликом.
 
-![Chromium Extension](https://img.shields.io/badge/Chrome-Расширение-brightgreen)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Расширение-brightgreen)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)
 ![Version](https://img.shields.io/badge/Версия-1.0-orange)
 
